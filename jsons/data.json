@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "datasetid": "query-outfields-and-where-1-3d1-and-f-geojson",
+            "recordid": "2088a9c19f011a4ab5dfc1cb2b95c1a1c61a0832",
+            "fields": {
+                "x_l93": 1176590,
+                "x_wgs84": 8.73828,
+                "influence": "Trafic",
+                "y_l93": 6109000,
+                "test": [
+                    8.73828,
+                    41.9258
+                ],
+                "nom_com": "Ajaccio",
+                "objectid2": 273308821,
+                "id_poll_ue": 9,
+                "geo_shape": {
+                    "coordinates": [
+                        0.00007849730480915932,
+                        0.00037662586938303524
+                    ],
+                    "type": "Point"
+                },
+                "nom_station": "Ajaccio Abbatucci",
+                "date_fin": "2022-10-31T08:59:00+00:00",
+                "unite": "ug.m-3",
+                "geo_point_2d": [
+                    0.00037662586938303524,
+                    0.00007849730480915932
+                ],
+                "nom_dept": "CORSE-DU-SUD",
+                "metrique": "horaire",
+                "nom_poll": "Oxydes d'azote",
+                "typologie": "Station de proximité sous influence trafic",
+                "statut_valid": "1",
+                "code_station": "FR41059",
+                "date_debut": "2022-10-31T08:00:00+00:00",
+                "insee_com": "2A004",
+                "valeur": "128.0",
+                "y_wgs84": 41.9258
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00007849730480915932,
+                    0.00037662586938303524
+                ]
+            },
+            "record_timestamp": "2022-11-14T14:31:27.016Z"
+        },
+        {
+            "datasetid": "query-outfields-and-where-1-3d1-and-f-geojson",
+            "recordid": "28dfbefba9f891a9c548e30a9b95fff6c8c5f9c6",
+            "fields": {
+                "x_l93": 1176380,
+                "x_wgs84": 8.73569,
+                "influence": "Fond",
+                "y_l93": 6108870,
+                "test": [
+                    8.73569,
+                    41.9247
+                ],
+                "nom_com": "Ajaccio",
+                "objectid2": 273309100,
+                "id_poll_ue": 9,
+                "geo_shape": {
+                    "coordinates": [
+                        0.00007847403844330062,
+                        0.00037661598790852865
+                    ],
+                    "type": "Point"
+                },
+                "nom_station": "AJACCIO CANETTO",
+                "date_fin": "2022-10-31T08:59:00+00:00",
+                "unite": "ug.m-3",
+                "geo_point_2d": [
+                    0.00037661598790852865,
+                    0.00007847403844330062
+                ],
+                "nom_dept": "CORSE-DU-SUD",
+                "metrique": "horaire",
+                "nom_poll": "Oxydes d'azote",
+                "typologie": "Station de fond sous influence urbaine",
+                "statut_valid": "1",
+                "code_station": "FR41001",
+                "date_debut": "2022-10-31T08:00:00+00:00",
+                "insee_com": "2A004",
+                "valeur": "42.0",
+                "y_wgs84": 41.9247
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00007847403844330062,
+                    0.00037661598790852865
+                ]
+            },
+            "record_timestamp": "2022-11-14T14:31:27.016Z"
+        }
+    ]
+}
